@@ -37,7 +37,6 @@ Table
                             <tr>
                                 <th>Username</th>
                                 <th>Email</th>
-                                <th>Password</th>
                                 <th>Image</th>
                                 <th>Location</th>
                                 <th>Phone</th>
@@ -53,7 +52,6 @@ Table
                                
                                 <td>{{$user->name}} </td>
                                 <td>{{$user->email}} </td>
-                                <td>{{$user->password}} </td>
                                 <td>{{$user->img}} </td>
                                 <td>{{$user->location}} </td>
                                 <td>{{$user->Phone}} </td>
